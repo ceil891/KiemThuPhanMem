@@ -43,6 +43,8 @@ Thông qua bài thực hành này, sinh viên:
 - Biết cách tổ chức và nộp bài bằng GitHub
 - Hiểu thêm về kiểm thử giao diện và trải nghiệm người dùng
 - Có nền tảng để tiếp cận các công cụ kiểm thử chuyên sâu hơn trong các tuần tiếp theo
+
+
  BÀI THỰC HÀNH TUẦN 2 – KIỂM THỬ PHẦN MỀM
  Kiểm thử đơn vị với JUnit
 
