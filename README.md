@@ -43,4 +43,27 @@ Thông qua bài thực hành này, sinh viên:
 - Biết cách tổ chức và nộp bài bằng GitHub
 - Hiểu thêm về kiểm thử giao diện và trải nghiệm người dùng
 - Có nền tảng để tiếp cận các công cụ kiểm thử chuyên sâu hơn trong các tuần tiếp theo
-  BÀI THỰC HÀNH TUẦN 2 – KIỂM THỬ PHẦN MỀM
+ BÀI THỰC HÀNH TUẦN 2 – KIỂM THỬ PHẦN MỀM
+ Kiểm thử đơn vị với JUnit
+
+1. Mục tiêu
+- Viết chương trình Java xử lý dữ liệu điểm số
+- Viết kiểm thử đơn vị bằng JUnit
+- Áp dụng validate dữ liệu và kiểm thử biên
+
+2. Nội dung
+- Xây dựng lớp `StudentAnalyzer`
+- Viết test cho từng phương thức
+- Kiểm thử các trường hợp bình thường, biên và ngoại lệ
+
+3. Cách chạy kiểm thử
+1. Mở project bằng IDE (IntelliJ / Eclipse)
+2. Thêm JUnit 5 vào project
+3. Chạy file `StudentAnalyzerTest.java`
+4. Kiểm tra kết quả test (PASS)
+
+4.. Kết luận
+Bài thực hành giúp sinh viên hiểu rõ:
+- Cách viết unit test
+- Tầm quan trọng của kiểm thử tự động
+- Cách phát hiện lỗi sớm trong quá trình phát triển phần mềm
