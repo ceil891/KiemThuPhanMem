@@ -69,3 +69,21 @@ Bài thực hành giúp sinh viên hiểu rõ:
 - Cách viết unit test
 - Tầm quan trọng của kiểm thử tự động
 - Cách phát hiện lỗi sớm trong quá trình phát triển phần mềm
+ Bài Thực Hành Tuần 3
+  Cypress End-to-End Testing Exercise
+
+ Requirements
+- Node.js >= 14
+- Cypress
+
+ Install
+npm install
+
+ Run tests
+npx cypress open
+
+Test Scenarios
+- Login success & failure
+- Add / Remove product from cart
+- Sort product by price
+- Checkout process
